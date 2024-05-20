@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Tauheed",
+    "description": "Nodejs application that interacts with backend databases (MongoDB and MySQL)",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Soummya",
+    "threatTop": 0
+  }
+}
